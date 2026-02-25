@@ -7,7 +7,7 @@ import { isAuth, isAdmin, mailgun, payOrderEmailTemplate } from '../utils.js';
 
 const orderRouter = express.Router();
 
-orderRouter.get(
+orderRouter.ger(
   '/',
   isAuth,
   isAdmin,
