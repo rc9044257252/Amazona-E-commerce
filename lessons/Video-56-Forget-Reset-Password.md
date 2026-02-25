@@ -9,6 +9,7 @@
    to .env.example
 
 2. set editor config in vs code setting
+   set editor config in vs code settings
 
    ```js
         {
