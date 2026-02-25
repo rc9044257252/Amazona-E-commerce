@@ -25,7 +25,7 @@ Welcome to my React and Node to build a fully-functional e-commerce website exac
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
+$ https://github.com/rc9044257252/Amazona-E-commerce
 $ cd mern-amazona
 ```
 
